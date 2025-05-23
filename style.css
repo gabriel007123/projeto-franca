@@ -2,3 +2,27 @@ html {
   height: 100%;
   width: 100%;
 }
+table {
+      width: 100%;
+      border-collapse: collapse; /* Remove espaços entre as bordas */
+    }
+    th, td{
+      border: 2px solid black; /* Adiciona bordas às células */
+      pedding: 8px; /* Adiciona espaçamento interno às células */
+      text-align: center;
+    }
+    th {
+      background-color: white; /* Cor de fundo para o cabeçalho */
+    }
+    body{
+      background-color: #ffa2f8;
+    }
+    #p01 {
+      text-align: center;
+    }
+    body, htlm {
+      
+       margin: 0;
+      padding: 0;
+     
+    }
